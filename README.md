@@ -41,7 +41,7 @@ Below is the screenshots of the challenge, the desktop view is 1440px and the mo
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Odo-Peter/notification-page)
-- Live Site URL: [odo-peter.vercel.app](https://vercel.com/odo-peter/)
+- Live Site URL: [Vercel.app](https://notification-page-five.vercel.app)
 
 ## My process
 
